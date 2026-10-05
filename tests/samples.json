@@ -1,0 +1,145 @@
+[
+  {
+    "id": "S01",
+    "label": "scam",
+    "difficulty": "normal",
+    "text": "Congratulations! You are selected for Software Developer Internship at TechNova Solutions. To confirm your seat, pay a registration fee of Rs 1500 via UPI today. 100% placement guaranteed.",
+    "sender": "hr.technova@gmail.com"
+  },
+  {
+    "id": "S02",
+    "label": "scam",
+    "difficulty": "normal",
+    "text": "Work from home typing job. Earn Rs 1000 per day. No experience required. Join our Telegram group t.me/easyjob_india and start today. Limited seats!"
+  },
+  {
+    "id": "S03",
+    "label": "scam",
+    "difficulty": "normal",
+    "text": "Aapka selection ho gaya hai! Internship ke liye registration ke liye paise bhejo ₹999. Paise wapas mil jayega after 1 month. Jaldi karo, seats limited hain.",
+    "note": "Hinglish"
+  },
+  {
+    "id": "S04",
+    "label": "scam",
+    "difficulty": "normal",
+    "text": "Dear student, you are shortlisted for TCS internship. No interview required. Pay security deposit Rs 2000 (refundable) to receive offer letter. Contact HR on WhatsApp +91 98765 43210."
+  },
+  {
+    "id": "S05",
+    "label": "scam",
+    "difficulty": "normal",
+    "text": "URGENT!!! OFFER EXPIRES IN 24 HOURS!!! Your internship letter is ready. Download from http://bit.ly/3xyzAbc and share your Aadhaar and PAN card to activate. Training fee Rs 500."
+  },
+  {
+    "id": "S06",
+    "label": "scam",
+    "difficulty": "normal",
+    "text": "Hi, we are hiring data entry interns. Earn ₹30,000 per week from home. No skills needed. Send your Aadhaar, bank account details and OTP to confirm joining."
+  },
+  {
+    "id": "S07",
+    "label": "scam",
+    "difficulty": "normal",
+    "text": "Ghar baithe kamao! Form filling ka kaam, daily payment. Pehle registration fees jama karo, phir kaam milega. Pakka selection, bina interview.",
+    "note": "Hinglish"
+  },
+  {
+    "id": "S08",
+    "label": "scam",
+    "difficulty": "normal",
+    "text": "Amazon Internship Program 2026. Selected candidates must pay Rs 3,000 laptop charge and kit fee. Apply at http://amaz0n-careers-apply.xyz. Hurry, only 5 seats left.",
+    "company": "Amazon",
+    "sender": "careers.amazon.hiring@gmail.com"
+  },
+  {
+    "id": "S09",
+    "label": "scam",
+    "difficulty": "normal",
+    "text": "Your CV has been selected by HR department. You are guaranteed selection after completing a certification course. Course fee Rs 4,999 payable on Paytm. Offer valid only today."
+  },
+  {
+    "id": "S10",
+    "label": "scam",
+    "difficulty": "normal",
+    "text": "Hello, I am HR Manager from a MNC. We have vacancy for fresher. Salary 50k. Contact on Telegram @hr_jobs_official. Send ID proof and bank passbook. Confirm immediately."
+  },
+  {
+    "id": "S11",
+    "label": "scam",
+    "difficulty": "normal",
+    "text": "Lucky draw internship! Aapko Google intern ke liye chuna gaya hai. Processing fee ₹1200 UPI pe bhejo. Offer 2 ghante mein expire ho jayega.",
+    "note": "Hinglish"
+  },
+  {
+    "id": "S12",
+    "label": "scam",
+    "difficulty": "normal",
+    "text": "Internship Offer: Digital Marketing intern. Stipend Rs 25000. No interview. Kindly pay 2500 INR as training fees to bank account 1234567890 IFSC ABCD0123456 to reserve your seat. Confirm today."
+  },
+  {
+    "id": "S13",
+    "label": "scam",
+    "difficulty": "hard",
+    "text": "Hi, we reviewed your profile and want to offer you a remote role at GlobalTech Solutions. The work is rating products online and you will be paid daily. Please install Telegram and message our manager to begin.",
+    "note": "Task scam. Phrased politely, no fee mentioned."
+  },
+  {
+    "id": "G01",
+    "label": "genuine",
+    "difficulty": "normal",
+    "text": "Dear Riya, We are pleased to offer you the position of Software Engineering Intern at Infosolve Technologies Pvt Ltd, Noida, for 3 months starting 1 November 2026. Stipend: Rs 15,000 per month. You will report to Mr. Sharma, Engineering Manager. Please confirm your acceptance by replying to this email before 20 October. There is no registration fee or any charge at any stage. Regards, HR Team, careers@infosolve.in, www.infosolve.in",
+    "company": "Infosolve Technologies Pvt Ltd",
+    "sender": "hr@infosolve.in"
+  },
+  {
+    "id": "G02",
+    "label": "genuine",
+    "difficulty": "normal",
+    "text": "Following your interview on 12 October, we are happy to inform you that you have been selected for the Data Analyst Intern role at Brightpath Analytics LLP, Gurugram. Duties include building dashboards using SQL and Power BI. Stipend Rs 20,000 per month. Joining date is 3 November. Please bring your college ID and resume on the first day. Contact: talent@brightpath-analytics.com"
+  },
+  {
+    "id": "G03",
+    "label": "genuine",
+    "difficulty": "normal",
+    "text": "Hi Aman, I'm a recruiter at Zenith Software Pvt Ltd. We have an open Frontend Developer Intern role (React, 6 months, Delhi, hybrid). Interested? Apply at https://careers.zenithsoft.com/intern. We never charge candidates any fee. Reply with your resume and your availability for a quick interview next week."
+  },
+  {
+    "id": "G04",
+    "label": "genuine",
+    "difficulty": "normal",
+    "text": "Dear Priya, thank you for applying to the UX Design Internship at PixelCraft Studio Pvt Ltd. We would like to schedule a 30 minute video interview on 8 October at 11 AM via Google Meet. Please prepare a portfolio of 2 projects. Regards, Recruitment Team, PixelCraft Studio, jobs@pixelcraft.in, https://www.pixelcraft.in"
+  },
+  {
+    "id": "G05",
+    "label": "genuine",
+    "difficulty": "normal",
+    "text": "Hi Karan, aapka Python developer intern ka interview kal 11 baje hai hamare NovaTech Systems Pvt Ltd office mein, Sector 62 Noida. Resume ki 2 copies aur college ID lekar aana. Koi fees nahi lagti hai. Contact: hr@novatechsystems.in",
+    "note": "Hinglish"
+  },
+  {
+    "id": "G06",
+    "label": "genuine",
+    "difficulty": "normal",
+    "text": "NIC Delhi invites applications for Summer Internship 2026 for B.Tech students. Eligibility: pursuing B.Tech CSE or IT with minimum 7 CGPA. Duration: 8 weeks. Selection will be through an online test and interview. No stipend. Apply at https://www.nic.in/internship before 30 October. Terms and conditions apply."
+  },
+  {
+    "id": "G07",
+    "label": "genuine",
+    "difficulty": "normal",
+    "text": "Hello Neha, this is Rohan from Cloudbyte Technologies. We received your application for the Backend Developer Intern position. The internship is 3 months, remote, with a stipend of Rs 12,000 per month. Please complete a short coding assessment here: https://assess.cloudbyte.io/test/4821 by Friday. Let me know if you have questions. Rohan, Talent Acquisition, rohan@cloudbyte.io"
+  },
+  {
+    "id": "G08",
+    "label": "genuine",
+    "difficulty": "normal",
+    "text": "Subject: Internship Completion and Pre-Placement Offer. Dear Ishaan, Congratulations on completing your internship at Medisys Healthcare Pvt Ltd. Based on your performance, we are pleased to extend a full-time offer as Associate Software Engineer at a CTC of 6.5 LPA. Details are attached in the offer letter. Please sign and return it within 10 days. For queries write to people@medisys.co.in."
+  },
+  {
+    "id": "G09",
+    "label": "genuine",
+    "difficulty": "hard",
+    "text": "Welcome aboard, Sahil! Your internship at Lumen Analytics Pvt Ltd starts on Monday. Your stipend will be paid by bank transfer on the 5th of every month. Please share your bank details on the HR portal after joining so payroll can set you up. Portal: https://hr.lumenanalytics.com. Questions: onboarding@lumenanalytics.com",
+    "note": "Genuine, but asks for bank details after joining."
+  }
+]
