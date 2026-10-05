@@ -3,7 +3,7 @@
 Check an internship or job offer for scam red flags in about 10 seconds.
 Built for the hackathon at wecodecoders.in, Track 02: Open Innovation (area: Safety and trust).
 
-Team: _add team name and members_ · Live demo: _add Render link_ · Demo video: _add link_
+Team: _Boiler-Plate-Dine_ · Live demo: _[add Render link](https://internsafe-zhj2.onrender.com)_
 
 ## Problem and evidence
 
